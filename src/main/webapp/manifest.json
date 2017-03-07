@@ -1,0 +1,15 @@
+{
+  "name": "Gwt Material",
+  "short_name": "GMD",
+  "icons": [
+    {
+      "src": "image/launcher-icon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "browser",
+  "background_color": "#2196f3",
+  "theme_color": "#1565c0"
+}
